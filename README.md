@@ -36,8 +36,8 @@ The Extra Fields are define with the ID "0x000A", which is the reserved ID for N
 
 The NTFS Extra Field store the precise time values, and more to the point the one we are interested in: the Stegofied version of the LastWriteTime value.
 
-Now I am nowhere near a pro at Python. I am usually able to get the result I want with probably poorly written code.
-The the point here is not code (although I am always interested in learning new things to improve my coding), the point is that with no debugger, no emulator, no need to jump to Windows, I was able to reconstruct the flag from a simple Linux onlt script.
+Now, I am nowhere near a pro at Python. I am usually able to get the result I want with probably poorly written code.
+The point here is not code (although I am always interested in learning new things to improve my coding), the point is that with no debugger, no emulator, no need to jump to Windows, I was able to reconstruct the flag from a simple Linux only script.
 
 The code!
 ---------
