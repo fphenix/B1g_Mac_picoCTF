@@ -33,7 +33,7 @@ If you understand the main.exe well enough, you know that it is the "*Copy.bmp" 
 
 Every Central Directory entry defines an "Extra Field" of length 36 bytes.
 
-The Extra Fields are define with the ID "0x000A", which is the reserved ID for "NTFS".
+The Extra Fields are defined with the ID "0x000A", which is the reserved ID for "NTFS".
 
 The NTFS Extra Field stores the precise time values (Modif, Access, Creation), and more to the point the one we are interested in: the Stegofy'ed version of the value for the "LastWriteTime" attribute.
 
